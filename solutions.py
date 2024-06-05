@@ -110,7 +110,7 @@ def get_discount():
     #### write your solution for this function below here. ####
     price_of_mask = 5
     discount_number = 5000
-    discount_rate = 0.20\
+    discount_rate = 0.20
     
     quantity = int(input("Please enter the number of masks you would like to purchase: "))
                                  
